@@ -26,7 +26,7 @@ Video link: https://youtu.be/xCf3SEOEDAo?si=S5QlYFVtzBxIXQQ2
 
 While the visual style and core setup build upon the tutorial, I have extensively refactored and expanded the codebase.
 My Personal Contributions and Improvements:
-Custom Blueprint logic for advanced wave mechanics | Different types of enemies with custom behaviors | Upgrade logic for weapons and abilities | Enhanced item placement system and configurable settings | Complete game balancing, including enemy power and pricing for upgrades and items | Slot Machine and its entire underlying logic | Various other details and quality of life improvements
+Custom Blueprint logic for advanced wave mechanics | Different types of enemies with custom behaviors | Upgrade logic for weapons and tower | Enhanced item placement system and configurable settings | Complete game balancing, including enemy power and pricing for upgrades and items | Slot Machine and its entire underlying logic | Various other details and quality of life improvements
 
 Note: AI was used strictly as a learning aid and for generating artwork. All game logic and systems were created entirely by me.
 
