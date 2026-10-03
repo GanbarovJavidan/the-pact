@@ -1,4 +1,4 @@
-Trailer Video: https://youtu.be/dQMTwXKGgKw
+Trailer Video: https://youtu.be/69foNIalFv0
 Download Link: https://drive.google.com/file/d/1_RzJAlyB71izNWnVqmkNhPnOCWHRtcGB/view?usp=sharing
 
 Story of the Game
